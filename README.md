@@ -1,1 +1,1 @@
-https://github.com/AndyLaska/ono-tebe-nado-fd .
+https://github.com/AndyLaska/ono-tebe-nado-fd
